@@ -1,4 +1,4 @@
-## Tech Stack Ratio
+## Tech Stack
 
 <p align="center">
   <img
