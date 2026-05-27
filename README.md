@@ -1,5 +1,3 @@
-## Tech Stack
-
 <p align="center">
   <img
     src="https://github.com/SJvaca30/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
