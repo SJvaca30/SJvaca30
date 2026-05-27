@@ -1,16 +1,12 @@
-## Hi there 👋
+## Tech Stack Ratio
 
-<!--
-**SJvaca30/SJvaca30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://github.com/SJvaca30/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
+    alt="Languages"
+  />
+  <img
+    src="https://github.com/SJvaca30/github-stats/blob/generated/languages.svg#gh-light-mode-only"
+    alt="Languages"
+  />
+</p>
