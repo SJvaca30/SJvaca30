@@ -1,8 +1,8 @@
 # SJ Lim
 
-I contribute focused fixes to developer tools and frameworks across JavaScript, Java, mobile, and AI tooling ecosystems.
+I focus on developer experience, framework behavior, and small upstream fixes that are easy for maintainers to review.
 
-I like small changes with clear context: docs that remove ambiguity, tests that lock down behavior, and fixes that are narrow enough for maintainers to review.
+My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: documentation that removes ambiguity, tests that lock down behavior, and narrow fixes with clear context.
 
 <p align="left">
   <img alt="Open source PRs accepted: 5" src="https://img.shields.io/badge/open%20source%20PRs%20accepted-5-2da44e?style=flat-square">
