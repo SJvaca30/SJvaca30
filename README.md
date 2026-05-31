@@ -6,8 +6,8 @@ My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: d
 
 <p align="left">
   <img alt="Open source PRs accepted: 5" src="https://img.shields.io/badge/open%20source%20PRs%20accepted-5-2da44e?style=flat-square">
-  <img alt="Open source PRs in review: 9" src="https://img.shields.io/badge/in%20review-9-0969da?style=flat-square">
-  <img alt="Last verified: 2026-05-31 KST" src="https://img.shields.io/badge/verified-2026--05--31%20KST-57606a?style=flat-square">
+  <img alt="Open source PRs in review: 11" src="https://img.shields.io/badge/in%20review-11-0969da?style=flat-square">
+  <img alt="Last verified: 2026-06-01 KST" src="https://img.shields.io/badge/verified-2026--06--01%20KST-57606a?style=flat-square">
 </p>
 
 ## Selected Contributions
@@ -23,9 +23,11 @@ My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: d
 
 | Area | Pull request |
 | --- | --- |
+| React Native text alignment | [facebook/react-native #57007](https://github.com/facebook/react-native/pull/57007) |
 | Spring Boot test coverage | [spring-projects/spring-boot #50625](https://github.com/spring-projects/spring-boot/pull/50625) |
 | Expo iOS tooling | [expo/expo #46336](https://github.com/expo/expo/pull/46336) |
 | Vercel AI SDK provider behavior | [vercel/ai #15706](https://github.com/vercel/ai/pull/15706), [#15661](https://github.com/vercel/ai/pull/15661) |
+| OpenAPI Generator codegen | [OpenAPITools/openapi-generator #23894](https://github.com/OpenAPITools/openapi-generator/pull/23894), [#23909](https://github.com/OpenAPITools/openapi-generator/pull/23909) |
 
 ## Focus
 
