@@ -2,14 +2,14 @@
 
 This log tracks external upstream open-source pull requests from `SJvaca30`. It intentionally excludes personal, school, and team-owned repositories so the profile README can focus on outside open-source contribution evidence.
 
-Last verified: 2026-06-01 KST with GitHub CLI and GitHub GraphQL API.
+Last verified: 2026-06-02 KST with GitHub CLI and GitHub GraphQL API.
 
 ## Summary
 
 | Status | Count | Definition |
 | --- | ---: | --- |
-| Open source PRs accepted | 5 | 4 standard GitHub merges plus 1 project-workflow accepted PR. |
-| In review | 11 | External upstream PRs still open, under review, or waiting for triage. |
+| Open source PRs accepted | 7 | 6 standard GitHub merges plus 1 project-workflow accepted PR. |
+| In review | 9 | External upstream PRs still open, under review, or waiting for triage. |
 | Archived attempts | 2 | Closed attempts without standard merge evidence. |
 
 ## Standard GitHub Merges
@@ -20,6 +20,8 @@ Last verified: 2026-06-01 KST with GitHub CLI and GitHub GraphQL API.
 | `expo/expo` | [#46331](https://github.com/expo/expo/pull/46331) | `[docs] Remove broken Expo Icon Builder link` | Merged by `amandeepmittal`; approved by `amandeepmittal`. |
 | `openrewrite/rewrite` | [#7805](https://github.com/openrewrite/rewrite/pull/7805) | `Fix DOCTYPE continuation indentation in XML TabsAndIndents` | Merged by `timtebeek`; approved by `timtebeek`. |
 | `spring-projects/spring-boot` | [#50593](https://github.com/spring-projects/spring-boot/pull/50593) | `Fix typos in documentation` | Merged by `snicoll`. |
+| `OpenAPITools/openapi-generator` | [#23894](https://github.com/OpenAPITools/openapi-generator/pull/23894) | `[Dart] Preserve uppercase names with trailing digits` | Merged by `wing328`. |
+| `OpenAPITools/openapi-generator` | [#23909](https://github.com/OpenAPITools/openapi-generator/pull/23909) | `fix(go): avoid duplicate unknown enum defaults` | Merged by `wing328`. |
 
 ## Accepted by Project Workflow
 
@@ -36,8 +38,6 @@ Last verified: 2026-06-01 KST with GitHub CLI and GitHub GraphQL API.
 | `expo/expo` | [#46336](https://github.com/expo/expo/pull/46336) | `[expo-modules-core][ios] Fix DevTools JSON content types with charset` | `contributor: external` |
 | `facebook/react-native` | [#57007](https://github.com/facebook/react-native/pull/57007) | `fix(text): support start and end text alignment` | `CLA Signed`; `Shared with Meta` |
 | `vercel/ai` | [#15706](https://github.com/vercel/ai/pull/15706) | `fix(anthropic): respect disableParallelToolUse in jsonTool mode` | Review required |
-| `OpenAPITools/openapi-generator` | [#23894](https://github.com/OpenAPITools/openapi-generator/pull/23894) | `[Dart] Preserve uppercase names with trailing digits` | Open |
-| `OpenAPITools/openapi-generator` | [#23909](https://github.com/OpenAPITools/openapi-generator/pull/23909) | `fix(go): avoid duplicate unknown enum defaults` | Open |
 | `testcontainers/testcontainers-java` | [#11783](https://github.com/testcontainers/testcontainers-java/pull/11783) | `docs: remove JUnit 4 references` | `type/docs` |
 | `shadcn-ui/ui` | [#10792](https://github.com/shadcn-ui/ui/pull/10792) | `fix(create): align Luma combobox popup trigger` | Review required |
 | `vercel/ai` | [#15661](https://github.com/vercel/ai/pull/15661) | `fix(google): round-trip provider code execution parts` | Review required |
