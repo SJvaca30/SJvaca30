@@ -21,7 +21,7 @@ My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: d
 | Spring Boot | Cleaned up documentation typos in Spring Boot reference material. | [spring-projects/spring-boot #50593](https://github.com/spring-projects/spring-boot/pull/50593) |
 | React Native | Cleaned duplicated words in source comments; approved and closed with the project's `Merged` label. | [facebook/react-native #56985](https://github.com/facebook/react-native/pull/56985) |
 
-## Currently In Review
+## In Review Highlights
 
 | Area | Pull request |
 | --- | --- |
