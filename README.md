@@ -6,8 +6,8 @@ My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: d
 
 <p align="left">
   <img alt="Open source PRs accepted: 8" src="https://img.shields.io/badge/open%20source%20PRs%20accepted-8-2da44e?style=flat-square">
-  <img alt="Open source PRs in review: 8" src="https://img.shields.io/badge/in%20review-8-0969da?style=flat-square">
-  <img alt="Last verified: 2026-06-08 KST" src="https://img.shields.io/badge/verified-2026--06--08%20KST-57606a?style=flat-square">
+  <img alt="Open source PRs in review: 11" src="https://img.shields.io/badge/in%20review-11-0969da?style=flat-square">
+  <img alt="Last verified: 2026-06-09 KST" src="https://img.shields.io/badge/verified-2026--06--09%20KST-57606a?style=flat-square">
 </p>
 
 ## Selected Contributions
@@ -28,7 +28,8 @@ My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: d
 | React Native text alignment | [facebook/react-native #57007](https://github.com/facebook/react-native/pull/57007) |
 | Spring Boot test coverage | [spring-projects/spring-boot #50625](https://github.com/spring-projects/spring-boot/pull/50625) |
 | Expo iOS tooling | [expo/expo #46336](https://github.com/expo/expo/pull/46336) |
-| Vercel AI SDK provider behavior | [vercel/ai #15706](https://github.com/vercel/ai/pull/15706), [#15661](https://github.com/vercel/ai/pull/15661) |
+| Java AI tooling | [spring-projects/spring-ai #6337](https://github.com/spring-projects/spring-ai/pull/6337), [langchain4j/langchain4j #5387](https://github.com/langchain4j/langchain4j/pull/5387) |
+| Vercel AI SDK provider behavior | [vercel/ai #15892](https://github.com/vercel/ai/pull/15892), [#15706](https://github.com/vercel/ai/pull/15706), [#15661](https://github.com/vercel/ai/pull/15661) |
 
 ## Focus
 
