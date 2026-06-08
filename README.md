@@ -5,9 +5,9 @@ I focus on developer experience, framework behavior, and small upstream fixes th
 My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: documentation that removes ambiguity, tests that lock down behavior, and narrow fixes with clear context.
 
 <p align="left">
-  <img alt="Open source PRs accepted: 7" src="https://img.shields.io/badge/open%20source%20PRs%20accepted-7-2da44e?style=flat-square">
-  <img alt="Open source PRs in review: 9" src="https://img.shields.io/badge/in%20review-9-0969da?style=flat-square">
-  <img alt="Last verified: 2026-06-02 KST" src="https://img.shields.io/badge/verified-2026--06--02%20KST-57606a?style=flat-square">
+  <img alt="Open source PRs accepted: 8" src="https://img.shields.io/badge/open%20source%20PRs%20accepted-8-2da44e?style=flat-square">
+  <img alt="Open source PRs in review: 8" src="https://img.shields.io/badge/in%20review-8-0969da?style=flat-square">
+  <img alt="Last verified: 2026-06-08 KST" src="https://img.shields.io/badge/verified-2026--06--08%20KST-57606a?style=flat-square">
 </p>
 
 ## Selected Contributions
@@ -17,6 +17,7 @@ My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: d
 | Expo | Removed outdated SDK UI guidance and a broken documentation link. | [expo/expo #46325](https://github.com/expo/expo/pull/46325), [#46331](https://github.com/expo/expo/pull/46331) |
 | OpenRewrite | Fixed XML formatter indentation for DOCTYPE continuation lines. | [openrewrite/rewrite #7805](https://github.com/openrewrite/rewrite/pull/7805) |
 | OpenAPI Generator | Fixed enum/codegen edge cases in Dart and Go generators. | [OpenAPITools/openapi-generator #23894](https://github.com/OpenAPITools/openapi-generator/pull/23894), [#23909](https://github.com/OpenAPITools/openapi-generator/pull/23909) |
+| Next.js | Clarified how `next-env.d.ts` is regenerated. | [vercel/next.js #94232](https://github.com/vercel/next.js/pull/94232) |
 | Spring Boot | Cleaned up documentation typos in Spring Boot reference material. | [spring-projects/spring-boot #50593](https://github.com/spring-projects/spring-boot/pull/50593) |
 | React Native | Cleaned duplicated words in source comments; approved and closed with the project's `Merged` label. | [facebook/react-native #56985](https://github.com/facebook/react-native/pull/56985) |
 
