@@ -8,8 +8,8 @@ Last verified: 2026-06-09 KST with GitHub CLI search and per-PR status checks.
 
 | Status | Count | Definition |
 | --- | ---: | --- |
-| Open source PRs accepted | 8 | 7 standard GitHub merges plus 1 project-workflow accepted PR. |
-| In review | 11 | External upstream PRs still open, under review, or waiting for triage. |
+| Open source PRs accepted | 9 | 8 standard GitHub merges plus 1 project-workflow accepted PR. |
+| In review | 10 | External upstream PRs still open, under review, or waiting for triage. |
 | Archived attempts | 2 | Closed attempts without standard merge evidence. |
 
 ## Standard GitHub Merges
@@ -23,6 +23,7 @@ Last verified: 2026-06-09 KST with GitHub CLI search and per-PR status checks.
 | `OpenAPITools/openapi-generator` | [#23894](https://github.com/OpenAPITools/openapi-generator/pull/23894) | `[Dart] Preserve uppercase names with trailing digits` | Merged by `wing328`. |
 | `OpenAPITools/openapi-generator` | [#23909](https://github.com/OpenAPITools/openapi-generator/pull/23909) | `fix(go): avoid duplicate unknown enum defaults` | Merged by `wing328`. |
 | `vercel/next.js` | [#94232](https://github.com/vercel/next.js/pull/94232) | `docs: clarify next-env.d.ts regeneration` | Merged by `icyJoseph`; approved by `icyJoseph`. |
+| `langchain4j/langchain4j` | [#5387](https://github.com/langchain4j/langchain4j/pull/5387) | `fix(elasticsearch): apply hybrid filters to full-text retriever` | Merged by `dliubarskyi`; approved by `dliubarskyi`. |
 
 ## Accepted by Project Workflow
 
@@ -34,7 +35,6 @@ Last verified: 2026-06-09 KST with GitHub CLI search and per-PR status checks.
 
 | Repository | PR | Title | Current signal |
 | --- | --- | --- | --- |
-| `langchain4j/langchain4j` | [#5387](https://github.com/langchain4j/langchain4j/pull/5387) | `fix(elasticsearch): apply hybrid filters to full-text retriever` | Review required; checks pass. |
 | `spring-projects/spring-ai` | [#6337](https://github.com/spring-projects/spring-ai/pull/6337) | `fix(mcp): propagate progress token to elicitation requests` | Open; current merge state is unstable, with no failing required check reported. |
 | `vercel/ai` | [#15892](https://github.com/vercel/ai/pull/15892) | `fix(provider/amazon-bedrock): expose request body metadata` | Review required; Vercel deploy auth is blocked for external contributors. |
 | `expo/expo` | [#46336](https://github.com/expo/expo/pull/46336) | `[expo-modules-core][ios] Fix DevTools JSON content types with charset` | Approved by `tsapeta`; CI follow-up posted. |

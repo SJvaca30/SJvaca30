@@ -13,7 +13,7 @@ Recommended order for this profile:
 | 5 | `openrewrite/rewrite` | Technical accepted contribution: XML formatter indentation behavior fix. |
 | 6 | `spring-projects/spring-boot` | Recognizable Java ecosystem project; accepted documentation PR plus one test PR in review. |
 
-Optional swap: use `vercel/ai` instead of one lower-priority pin when the AI SDK provider behavior PRs become accepted or if AI tooling should be the strongest visible signal.
+Optional swap: use `langchain4j/langchain4j` instead of one lower-priority pin if Java AI tooling should be the strongest visible signal. Use `vercel/ai` when the AI SDK provider behavior PRs become accepted.
 
 Avoid pinning forked personal copies of upstream repositories unless the fork itself contains a clear original project or showcase. The profile should emphasize accepted upstream work, not just the existence of local forks.
 
