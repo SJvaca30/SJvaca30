@@ -7,7 +7,7 @@ My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: d
 <p align="left">
   <img alt="Open source PRs accepted: 9" src="https://img.shields.io/badge/open%20source%20PRs%20accepted-9-2da44e?style=flat-square">
   <img alt="Open source PRs in review: 10" src="https://img.shields.io/badge/in%20review-10-0969da?style=flat-square">
-  <img alt="Last verified: 2026-06-09 KST" src="https://img.shields.io/badge/verified-2026--06--09%20KST-57606a?style=flat-square">
+  <img alt="Last verified: 2026-06-11 KST" src="https://img.shields.io/badge/verified-2026--06--11%20KST-57606a?style=flat-square">
 </p>
 
 ## Selected Contributions
@@ -20,13 +20,13 @@ My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: d
 | LangChain4j | Fixed Elasticsearch hybrid retriever filtering behavior. | [langchain4j/langchain4j #5387](https://github.com/langchain4j/langchain4j/pull/5387) |
 | Next.js | Clarified how `next-env.d.ts` is regenerated. | [vercel/next.js #94232](https://github.com/vercel/next.js/pull/94232) |
 | Spring Boot | Cleaned up documentation typos in Spring Boot reference material. | [spring-projects/spring-boot #50593](https://github.com/spring-projects/spring-boot/pull/50593) |
-| React Native | Cleaned duplicated words in source comments; approved and closed with the project's `Merged` label. | [facebook/react-native #56985](https://github.com/facebook/react-native/pull/56985) |
+| React Native | Cleaned duplicated words in source comments; approved and closed with the project's `Merged` label. | [react/react-native #56985](https://github.com/react/react-native/pull/56985) |
 
 ## In Review Highlights
 
 | Area | Pull request |
 | --- | --- |
-| React Native text alignment | [facebook/react-native #57007](https://github.com/facebook/react-native/pull/57007) |
+| React Native text alignment | [react/react-native #57007](https://github.com/react/react-native/pull/57007) |
 | Spring Boot test coverage | [spring-projects/spring-boot #50625](https://github.com/spring-projects/spring-boot/pull/50625) |
 | Expo iOS tooling | [expo/expo #46336](https://github.com/expo/expo/pull/46336) |
 | Java AI tooling | [spring-projects/spring-ai #6337](https://github.com/spring-projects/spring-ai/pull/6337) |

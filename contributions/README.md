@@ -2,7 +2,7 @@
 
 This log tracks external upstream open-source pull requests from `SJvaca30`. It intentionally excludes personal, school, and team-owned repositories so the profile README can focus on outside open-source contribution evidence.
 
-Last verified: 2026-06-09 KST with GitHub CLI search and per-PR status checks.
+Last verified: 2026-06-11 KST with GitHub CLI search and per-PR status checks.
 
 ## Summary
 
@@ -29,16 +29,16 @@ Last verified: 2026-06-09 KST with GitHub CLI search and per-PR status checks.
 
 | Repository | PR | Title | Notes |
 | --- | --- | --- | --- |
-| `facebook/react-native` | [#56985](https://github.com/facebook/react-native/pull/56985) | `Fix duplicated words in source comments` | Approved by `cortinico`; closed with `Merged`, `CLA Signed`, and `Shared with Meta` labels. |
+| `react/react-native` | [#56985](https://github.com/react/react-native/pull/56985) | `Fix duplicated words in source comments` | Approved by `cortinico`; closed with `Merged`, `CLA Signed`, and `Shared with Meta` labels. |
 
 ## In Review
 
 | Repository | PR | Title | Current signal |
 | --- | --- | --- | --- |
-| `spring-projects/spring-ai` | [#6337](https://github.com/spring-projects/spring-ai/pull/6337) | `fix(mcp): propagate progress token to elicitation requests` | Open; current merge state is unstable, with no failing required check reported. |
+| `spring-projects/spring-ai` | [#6337](https://github.com/spring-projects/spring-ai/pull/6337) | `fix(mcp): propagate progress token to elicitation requests` | Open; checks pass. |
 | `vercel/ai` | [#15892](https://github.com/vercel/ai/pull/15892) | `fix(provider/amazon-bedrock): expose request body metadata` | Review required; Vercel deploy auth is blocked for external contributors. |
-| `expo/expo` | [#46336](https://github.com/expo/expo/pull/46336) | `[expo-modules-core][ios] Fix DevTools JSON content types with charset` | Approved by `tsapeta`; CI follow-up posted. |
-| `facebook/react-native` | [#57007](https://github.com/facebook/react-native/pull/57007) | `fix(text): support start and end text alignment` | `CLA Signed`; `Shared with Meta`; import status pending. |
+| `expo/expo` | [#46336](https://github.com/expo/expo/pull/46336) | `[expo-modules-core][ios] Fix DevTools JSON content types with charset` | Approved by `tsapeta`; current checks pass. |
+| `react/react-native` | [#57007](https://github.com/react/react-native/pull/57007) | `fix(text): support start and end text alignment` | `CLA Signed`; `Shared with Meta`; import status pending. |
 | `spring-projects/spring-boot` | [#50625](https://github.com/spring-projects/spring-boot/pull/50625) | `Add nested override coverage for SpringBootTest imports` | `status: waiting-for-triage`; checks pass. |
 | `vercel/ai` | [#15706](https://github.com/vercel/ai/pull/15706) | `fix(anthropic): respect disableParallelToolUse in jsonTool mode` | Review required; Vercel deploy auth is blocked for external contributors. |
 | `vercel/ai` | [#15661](https://github.com/vercel/ai/pull/15661) | `fix(google): round-trip provider code execution parts` | Review required; Vercel deploy auth is blocked for external contributors. |
