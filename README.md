@@ -1,39 +1,42 @@
 # SJ Lim
 
-I focus on developer experience, framework behavior, and small upstream fixes that are easy for maintainers to review.
+I work on scoped upstream fixes across framework behavior, generated client behavior, and developer-facing documentation.
 
-My open source work spans JavaScript, Java, mobile, and AI tooling ecosystems: documentation that removes ambiguity, tests that lock down behavior, and narrow fixes with clear context.
+My contributions focus on edge cases, regression coverage, and documentation updates that make existing project behavior easier for maintainers and users to reason about.
 
 <p align="left">
-  <img alt="Open source PRs accepted: 10" src="https://img.shields.io/badge/open%20source%20PRs%20accepted-10-2da44e?style=flat-square">
-  <img alt="Open source PRs in review: 9" src="https://img.shields.io/badge/in%20review-9-0969da?style=flat-square">
-  <img alt="Last verified: 2026-06-12 KST" src="https://img.shields.io/badge/verified-2026--06--12%20KST-57606a?style=flat-square">
+  <img alt="Accepted upstream PRs: 10" src="https://img.shields.io/badge/accepted%20upstream%20PRs-10-2da44e?style=flat-square">
+  <img alt="Open upstream PRs: 9" src="https://img.shields.io/badge/open%20upstream%20PRs-9-0969da?style=flat-square">
+  <img alt="Verified: 2026-06-12 KST" src="https://img.shields.io/badge/verified-2026--06--12%20KST-57606a?style=flat-square">
 </p>
 
-## Selected Contributions
+Full contribution log: [10 accepted, 9 open](contributions/README.md) · Accepted = merged PRs plus one project-workflow accepted PR. Verified 2026-06-12 KST.
 
-| Ecosystem | Contribution | Pull request |
-| --- | --- | --- |
-| Expo | Removed outdated docs and fixed iOS DevTools JSON content-type handling. | [expo/expo #46325](https://github.com/expo/expo/pull/46325), [#46331](https://github.com/expo/expo/pull/46331), [#46336](https://github.com/expo/expo/pull/46336) |
-| OpenRewrite | Fixed XML formatter indentation for DOCTYPE continuation lines. | [openrewrite/rewrite #7805](https://github.com/openrewrite/rewrite/pull/7805) |
-| OpenAPI Generator | Fixed enum/codegen edge cases in Dart and Go generators. | [OpenAPITools/openapi-generator #23894](https://github.com/OpenAPITools/openapi-generator/pull/23894), [#23909](https://github.com/OpenAPITools/openapi-generator/pull/23909) |
-| LangChain4j | Fixed Elasticsearch hybrid retriever filtering behavior. | [langchain4j/langchain4j #5387](https://github.com/langchain4j/langchain4j/pull/5387) |
-| Next.js | Clarified how `next-env.d.ts` is regenerated. | [vercel/next.js #94232](https://github.com/vercel/next.js/pull/94232) |
-| Spring Boot | Cleaned up documentation typos in Spring Boot reference material. | [spring-projects/spring-boot #50593](https://github.com/spring-projects/spring-boot/pull/50593) |
-| React Native | Cleaned duplicated words in source comments; approved and closed with the project's `Merged` label. | [react/react-native #56985](https://github.com/react/react-native/pull/56985) |
+## Accepted Upstream Work
 
-## In Review Highlights
-
-| Area | Pull request |
+| Project | Accepted change |
 | --- | --- |
-| React Native text alignment | [react/react-native #57007](https://github.com/react/react-native/pull/57007) |
-| Spring Boot test coverage | [spring-projects/spring-boot #50625](https://github.com/spring-projects/spring-boot/pull/50625) |
-| Java AI tooling | [spring-projects/spring-ai #6337](https://github.com/spring-projects/spring-ai/pull/6337) |
-| Vercel AI SDK provider behavior | [vercel/ai #15892](https://github.com/vercel/ai/pull/15892), [#15706](https://github.com/vercel/ai/pull/15706), [#15661](https://github.com/vercel/ai/pull/15661) |
+| [**React Native**](https://github.com/react/react-native)<br><sub>Mobile framework</sub> | Cleaned duplicated source comments; approved and closed with the project's `Merged` label. [[1]](https://github.com/react/react-native/pull/56985) |
+| [**Next.js**](https://github.com/vercel/next.js)<br><sub>React framework</sub> | Clarified `next-env.d.ts` regeneration. [[1]](https://github.com/vercel/next.js/pull/94232) |
+| [**Spring Boot**](https://github.com/spring-projects/spring-boot)<br><sub>Java application framework</sub> | Cleaned up Spring Boot reference documentation typos. [[1]](https://github.com/spring-projects/spring-boot/pull/50593) |
+| [**Expo**](https://github.com/expo/expo)<br><sub>React Native app tooling</sub> | Removed outdated SDK docs; fixed iOS DevTools JSON content types. [[1]](https://github.com/expo/expo/pull/46325) [[2]](https://github.com/expo/expo/pull/46331) [[3]](https://github.com/expo/expo/pull/46336) |
+| [**OpenAPI Generator**](https://github.com/OpenAPITools/openapi-generator)<br><sub>API code generator</sub> | Fixed Dart and Go enum/codegen edge cases. [[1]](https://github.com/OpenAPITools/openapi-generator/pull/23894) [[2]](https://github.com/OpenAPITools/openapi-generator/pull/23909) |
+| [**LangChain4j**](https://github.com/langchain4j/langchain4j)<br><sub>Java LLM framework</sub> | Fixed Elasticsearch hybrid retriever filtering. [[1]](https://github.com/langchain4j/langchain4j/pull/5387) |
+| [**OpenRewrite**](https://github.com/openrewrite/rewrite)<br><sub>Source refactoring tooling</sub> | Fixed XML DOCTYPE continuation indentation. [[1]](https://github.com/openrewrite/rewrite/pull/7805) |
+
+## Selected Open Upstream Work
+
+| Project | Open work |
+| --- | --- |
+| [**React Native**](https://github.com/react/react-native)<br><sub>Mobile framework</sub> | Text alignment behavior for `start` and `end`. [[1]](https://github.com/react/react-native/pull/57007) |
+| [**Spring Boot**](https://github.com/spring-projects/spring-boot)<br><sub>Java application framework</sub> | Nested import override coverage for `SpringBootTest`. [[1]](https://github.com/spring-projects/spring-boot/pull/50625) |
+| [**Spring AI**](https://github.com/spring-projects/spring-ai)<br><sub>Java AI framework</sub> | MCP progress-token propagation during elicitation. [[1]](https://github.com/spring-projects/spring-ai/pull/6337) |
+| [**Vercel AI SDK**](https://github.com/vercel/ai)<br><sub>TypeScript AI SDK</sub> | Provider behavior fixes across Bedrock, Anthropic, and Google integrations. [[1]](https://github.com/vercel/ai/pull/15892) [[2]](https://github.com/vercel/ai/pull/15706) [[3]](https://github.com/vercel/ai/pull/15661) |
+| [**Next.js**](https://github.com/vercel/next.js)<br><sub>React framework</sub> | Clarified remounting for imperative DOM libraries with Activity. [[1]](https://github.com/vercel/next.js/pull/94156) |
 
 ## Focus
 
-Developer experience · Framework documentation · Tooling behavior · Mobile ecosystem · Java/Spring · TypeScript
+Framework edge cases · API/codegen behavior · Regression tests · Developer documentation · Java/Spring · TypeScript
 
 ## Contact
 
@@ -45,11 +48,7 @@ Full contribution log: [contributions/README.md](contributions/README.md)
 
 <p align="center">
   <img
-    src="https://github.com/SJvaca30/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
-    alt="Languages"
-  />
-  <img
-    src="https://github.com/SJvaca30/github-stats/blob/generated/languages.svg#gh-light-mode-only"
-    alt="Languages"
+    src="https://raw.githubusercontent.com/SJvaca30/github-stats/generated/languages.svg"
+    alt="Language activity summary"
   />
 </p>
