@@ -8,7 +8,7 @@ Recommended order for this profile:
 | ---: | --- | --- |
 | 1 | `react/react-native` | Recognizable mobile ecosystem project; one project-workflow accepted PR plus one text-alignment PR in review. |
 | 2 | `vercel/next.js` | Recognizable web framework; one accepted documentation PR plus one Activity-related docs PR in review. |
-| 3 | `expo/expo` | Recognizable mobile framework; two accepted documentation PRs plus one approved iOS tooling PR in review. |
+| 3 | `expo/expo` | Recognizable mobile framework; accepted documentation and iOS tooling PRs. |
 | 4 | `OpenAPITools/openapi-generator` | Generator/tooling behavior work with accepted Dart and Go PRs. |
 | 5 | `openrewrite/rewrite` | Technical accepted contribution: XML formatter indentation behavior fix. |
 | 6 | `spring-projects/spring-boot` | Recognizable Java ecosystem project; accepted documentation PR plus one test PR in review. |

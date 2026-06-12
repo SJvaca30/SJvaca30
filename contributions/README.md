@@ -2,14 +2,14 @@
 
 This log tracks external upstream open-source pull requests from `SJvaca30`. It intentionally excludes personal, school, and team-owned repositories so the profile README can focus on outside open-source contribution evidence.
 
-Last verified: 2026-06-11 KST with GitHub CLI search and per-PR status checks.
+Last verified: 2026-06-12 KST with GitHub CLI search and per-PR status checks.
 
 ## Summary
 
 | Status | Count | Definition |
 | --- | ---: | --- |
-| Open source PRs accepted | 9 | 8 standard GitHub merges plus 1 project-workflow accepted PR. |
-| In review | 10 | External upstream PRs still open, under review, or waiting for triage. |
+| Open source PRs accepted | 10 | 9 standard GitHub merges plus 1 project-workflow accepted PR. |
+| In review | 9 | External upstream PRs still open, under review, or waiting for triage. |
 | Archived attempts | 2 | Closed attempts without standard merge evidence. |
 
 ## Standard GitHub Merges
@@ -18,6 +18,7 @@ Last verified: 2026-06-11 KST with GitHub CLI search and per-PR status checks.
 | --- | --- | --- | --- |
 | `expo/expo` | [#46325](https://github.com/expo/expo/pull/46325) | `[docs][ui] Remove Picker from SDK 55 drop-in replacements` | Merged by `amandeepmittal`; approved by `amandeepmittal` and `vonovak`. |
 | `expo/expo` | [#46331](https://github.com/expo/expo/pull/46331) | `[docs] Remove broken Expo Icon Builder link` | Merged by `amandeepmittal`; approved by `amandeepmittal`. |
+| `expo/expo` | [#46336](https://github.com/expo/expo/pull/46336) | `[expo-modules-core][ios] Fix DevTools JSON content types with charset` | Merged by `tsapeta`; approved by `tsapeta`. |
 | `openrewrite/rewrite` | [#7805](https://github.com/openrewrite/rewrite/pull/7805) | `Fix DOCTYPE continuation indentation in XML TabsAndIndents` | Merged by `timtebeek`; approved by `timtebeek`. |
 | `spring-projects/spring-boot` | [#50593](https://github.com/spring-projects/spring-boot/pull/50593) | `Fix typos in documentation` | Merged by `snicoll`. |
 | `OpenAPITools/openapi-generator` | [#23894](https://github.com/OpenAPITools/openapi-generator/pull/23894) | `[Dart] Preserve uppercase names with trailing digits` | Merged by `wing328`. |
@@ -35,9 +36,8 @@ Last verified: 2026-06-11 KST with GitHub CLI search and per-PR status checks.
 
 | Repository | PR | Title | Current signal |
 | --- | --- | --- | --- |
-| `spring-projects/spring-ai` | [#6337](https://github.com/spring-projects/spring-ai/pull/6337) | `fix(mcp): propagate progress token to elicitation requests` | Open; checks pass. |
+| `spring-projects/spring-ai` | [#6337](https://github.com/spring-projects/spring-ai/pull/6337) | `fix(mcp): propagate progress token to elicitation requests` | `status: waiting-for-triage`; checks pass. |
 | `vercel/ai` | [#15892](https://github.com/vercel/ai/pull/15892) | `fix(provider/amazon-bedrock): expose request body metadata` | Review required; Vercel deploy auth is blocked for external contributors. |
-| `expo/expo` | [#46336](https://github.com/expo/expo/pull/46336) | `[expo-modules-core][ios] Fix DevTools JSON content types with charset` | Approved by `tsapeta`; current checks pass. |
 | `react/react-native` | [#57007](https://github.com/react/react-native/pull/57007) | `fix(text): support start and end text alignment` | `CLA Signed`; `Shared with Meta`; import status pending. |
 | `spring-projects/spring-boot` | [#50625](https://github.com/spring-projects/spring-boot/pull/50625) | `Add nested override coverage for SpringBootTest imports` | `status: waiting-for-triage`; checks pass. |
 | `vercel/ai` | [#15706](https://github.com/vercel/ai/pull/15706) | `fix(anthropic): respect disableParallelToolUse in jsonTool mode` | Review required; Vercel deploy auth is blocked for external contributors. |
