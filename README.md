@@ -7,10 +7,10 @@ My contributions focus on edge cases, regression coverage, and documentation upd
 <p align="left">
   <img alt="Accepted upstream PRs: 10" src="https://img.shields.io/badge/accepted%20upstream%20PRs-10-2da44e?style=flat-square">
   <img alt="Open upstream PRs: 9" src="https://img.shields.io/badge/open%20upstream%20PRs-9-0969da?style=flat-square">
-  <img alt="Verified: 2026-06-12 KST" src="https://img.shields.io/badge/verified-2026--06--12%20KST-57606a?style=flat-square">
+  <img alt="Verified: 2026-06-17 KST" src="https://img.shields.io/badge/verified-2026--06--17%20KST-57606a?style=flat-square">
 </p>
 
-Full contribution log: [10 accepted, 9 open](contributions/README.md) · Accepted = merged PRs plus one project-workflow accepted PR. Verified 2026-06-12 KST.
+Full contribution log: [10 accepted, 9 open](contributions/README.md) · Accepted = merged PRs plus one project-workflow accepted PR. Verified 2026-06-17 KST.
 
 ## Accepted Upstream Work
 
@@ -28,7 +28,7 @@ Full contribution log: [10 accepted, 9 open](contributions/README.md) · Accepte
 
 | Project | Open work |
 | --- | --- |
-| [**React Native**](https://github.com/react/react-native)<br><sub>Mobile framework</sub> | Text alignment behavior for `start` and `end`. [[1]](https://github.com/react/react-native/pull/57007) |
+| [**React Native**](https://github.com/react/react-native)<br><sub>Mobile framework</sub> | Text alignment behavior for `start` and `end`. [[1]](https://github.com/react/react-native/pull/57201) |
 | [**Spring Boot**](https://github.com/spring-projects/spring-boot)<br><sub>Java application framework</sub> | Nested import override coverage for `SpringBootTest`. [[1]](https://github.com/spring-projects/spring-boot/pull/50625) |
 | [**Spring AI**](https://github.com/spring-projects/spring-ai)<br><sub>Java AI framework</sub> | MCP progress-token propagation during elicitation. [[1]](https://github.com/spring-projects/spring-ai/pull/6337) |
 | [**Vercel AI SDK**](https://github.com/vercel/ai)<br><sub>TypeScript AI SDK</sub> | Provider behavior fixes across Bedrock, Anthropic, and Google integrations. [[1]](https://github.com/vercel/ai/pull/15892) [[2]](https://github.com/vercel/ai/pull/15706) [[3]](https://github.com/vercel/ai/pull/15661) |

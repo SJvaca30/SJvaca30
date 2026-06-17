@@ -2,7 +2,7 @@
 
 This log tracks external upstream open-source pull requests from `SJvaca30`. It intentionally excludes personal, school, and team-owned repositories so the profile README can focus on outside open-source contribution evidence.
 
-Last verified: 2026-06-12 KST with GitHub CLI search and per-PR status checks.
+Last verified: 2026-06-17 KST with GitHub CLI search and per-PR status checks.
 
 ## Summary
 
@@ -10,7 +10,7 @@ Last verified: 2026-06-12 KST with GitHub CLI search and per-PR status checks.
 | --- | ---: | --- |
 | Open source PRs accepted | 10 | 9 standard GitHub merges plus 1 project-workflow accepted PR. |
 | In review | 9 | External upstream PRs still open, under review, or waiting for triage. |
-| Archived attempts | 2 | Closed attempts without standard merge evidence. |
+| Archived attempts | 3 | Closed attempts without standard merge evidence. |
 
 ## Standard GitHub Merges
 
@@ -38,7 +38,7 @@ Last verified: 2026-06-12 KST with GitHub CLI search and per-PR status checks.
 | --- | --- | --- | --- |
 | `spring-projects/spring-ai` | [#6337](https://github.com/spring-projects/spring-ai/pull/6337) | `fix(mcp): propagate progress token to elicitation requests` | `status: waiting-for-triage`; checks pass. |
 | `vercel/ai` | [#15892](https://github.com/vercel/ai/pull/15892) | `fix(provider/amazon-bedrock): expose request body metadata` | Review required; Vercel deploy auth is blocked for external contributors. |
-| `react/react-native` | [#57007](https://github.com/react/react-native/pull/57007) | `fix(text): support start and end text alignment` | `CLA Signed`; `Shared with Meta`; import status pending. |
+| `react/react-native` | [#57201](https://github.com/react/react-native/pull/57201) | `fix(text): support start and end text alignment` | `CLA Signed`; `Shared with Meta`; imported by `meta-codesync`; public/import checks pass while Meta internal checks report failures. |
 | `spring-projects/spring-boot` | [#50625](https://github.com/spring-projects/spring-boot/pull/50625) | `Add nested override coverage for SpringBootTest imports` | `status: waiting-for-triage`; checks pass. |
 | `vercel/ai` | [#15706](https://github.com/vercel/ai/pull/15706) | `fix(anthropic): respect disableParallelToolUse in jsonTool mode` | Review required; Vercel deploy auth is blocked for external contributors. |
 | `vercel/ai` | [#15661](https://github.com/vercel/ai/pull/15661) | `fix(google): round-trip provider code execution parts` | Review required; Vercel deploy auth is blocked for external contributors. |
@@ -52,3 +52,4 @@ Last verified: 2026-06-12 KST with GitHub CLI search and per-PR status checks.
 | --- | --- | --- | --- |
 | `expo/expo` | [#46324](https://github.com/expo/expo/pull/46324) | `[ios][core] Fix iPad orientation Info.plist lookup` | Draft, closed without merge. |
 | `expo/expo` | [#46385](https://github.com/expo/expo/pull/46385) | `[sdk-52][notifications] Fix thread-safe static initialization in EXNotificationSerializer` | Closed without standard merge evidence. |
+| `react/react-native` | [#57007](https://github.com/react/react-native/pull/57007) | `fix(text): support start and end text alignment` | Closed without merge after replacement by [#57201](https://github.com/react/react-native/pull/57201); original fork became locked and could not be updated. |
